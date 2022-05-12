@@ -1,4 +1,4 @@
-# Olá, meu nome é Pedro :happy:
+# Olá, meu nome é Pedro :slightly_smiling_face:
 
 - Este é um repositório onde irei armazenar todos os **_bootcamps_** que estarei realizando em minha trajetória academia :man_student: .
 
