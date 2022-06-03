@@ -14,7 +14,7 @@ function recebeArray(array, numero){
             throw new RangeError("Tamanho inválido");
 
         return array;
-
+ 
     } catch(e) {
         if (e instanceof ReferenceError) {
             console.log("Este erro é do tipo Reference Error");
